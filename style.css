@@ -1,0 +1,44 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background: linear-gradient(rgb(9, 231, 9), rgb(87, 87, 230))
+}
+
+.header {
+    background-color: peachpuff;
+    font-size: 30px;
+    color: navy;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+
+}
+
+.header h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    color: crimson;
+}
+#sd, #acc {
+    color: rgb(241, 123, 222);
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+}
+.middle h3{
+    color: whitesmoke;
+font-size: 22px;
+letter-spacing: 2px;
+}
+
+.p_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: thistle;
+    font-size: 18px;
+    color: navy;
+    padding: 5px;
+    margin-top: 15px;
+    text-shadow: 5px 5px 5px grey;
+    width: 100%  
+}
